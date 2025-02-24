@@ -1,0 +1,724 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "publisher"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"target_link_directories",
+			"target_link_libraries",
+			"set_property",
+			"_populate_Widgets_target_properties",
+			"find_package",
+			"set_target_properties",
+			"include",
+			"add_compile_options",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+			"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+			"/opt/ros/rolling/share/std_msgs/cmake/std_msgs__rosidl_typesupport_cExport.cmake",
+			"/opt/ros/rolling/share/std_msgs/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/rolling/share/std_msgs/cmake/std_msgsConfig.cmake",
+			"/opt/ros/rolling/share/std_msgs/cmake/std_msgs__rosidl_typesupport_cppExport.cmake",
+			"/opt/ros/rolling/share/std_msgs/cmake/export_std_msgs__rosidl_generator_cExport.cmake",
+			"/opt/ros/rolling/share/rcutils/cmake/rcutilsExport.cmake",
+			"/opt/ros/rolling/share/rcutils/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/rolling/share/rcutils/cmake/rcutilsConfig.cmake",
+			"/opt/ros/rolling/share/rosidl_runtime_c/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/rolling/share/rosidl_runtime_c/cmake/rosidl_runtime_cConfig.cmake",
+			"/opt/ros/rolling/share/builtin_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/rolling/share/builtin_interfaces/cmake/builtin_interfacesConfig.cmake",
+			"/opt/ros/rolling/share/rclcpp/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/rolling/share/rclcpp/cmake/rclcppConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 57,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 28,
+				"parent" : 7
+			},
+			{
+				"file" : 1,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 213,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"file" : 5,
+				"parent" : 12
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 41,
+				"parent" : 13
+			},
+			{
+				"file" : 4,
+				"parent" : 14
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 9,
+				"parent" : 15
+			},
+			{
+				"file" : 3,
+				"parent" : 16
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 61,
+				"parent" : 17
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 9,
+				"parent" : 15
+			},
+			{
+				"file" : 6,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 61,
+				"parent" : 20
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 9,
+				"parent" : 15
+			},
+			{
+				"file" : 7,
+				"parent" : 22
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 61,
+				"parent" : 23
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"file" : 16,
+				"parent" : 25
+			},
+			{
+				"command" : 8,
+				"file" : 16,
+				"line" : 41,
+				"parent" : 26
+			},
+			{
+				"file" : 15,
+				"parent" : 27
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 21,
+				"parent" : 28
+			},
+			{
+				"file" : 14,
+				"parent" : 29
+			},
+			{
+				"command" : 8,
+				"file" : 14,
+				"line" : 41,
+				"parent" : 30
+			},
+			{
+				"file" : 13,
+				"parent" : 31
+			},
+			{
+				"command" : 6,
+				"file" : 13,
+				"line" : 21,
+				"parent" : 32
+			},
+			{
+				"file" : 12,
+				"parent" : 33
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 41,
+				"parent" : 34
+			},
+			{
+				"file" : 11,
+				"parent" : 35
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 21,
+				"parent" : 36
+			},
+			{
+				"file" : 10,
+				"parent" : 37
+			},
+			{
+				"command" : 8,
+				"file" : 10,
+				"line" : 41,
+				"parent" : 38
+			},
+			{
+				"file" : 9,
+				"parent" : 39
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 9,
+				"parent" : 40
+			},
+			{
+				"file" : 8,
+				"parent" : 41
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 61,
+				"parent" : 42
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 90,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"backtrace" : 44,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 44,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 44,
+					"fragment" : "-Wpedantic"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "QT_WIDGETS_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/makarand/ros2_wc/build/my_package_publisher/publisher_autogen/include"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rclcpp"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/libstatistics_collector"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rcl"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rcl_interfaces"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rcl_yaml_param_parser"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rcpputils"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rmw"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosgraph_msgs"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_dynamic_typesupport"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_cpp"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/statistics_msgs"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/tracetools"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_fastrtps_c"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_fastrtps_cpp"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_c"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_introspection_c"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_introspection_cpp"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/service_msgs"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/type_description_interfaces"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/opt/ros/rolling/include/rcl_logging_interface"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "/home/makarand/ros2_wc/src/my_package_publisher/include"
+				},
+				{
+					"backtrace" : 45,
+					"isSystem" : true,
+					"path" : "/opt/ros/rolling/include/builtin_interfaces"
+				},
+				{
+					"backtrace" : 45,
+					"isSystem" : true,
+					"path" : "/opt/ros/rolling/include/rcutils"
+				},
+				{
+					"backtrace" : 45,
+					"isSystem" : true,
+					"path" : "/opt/ros/rolling/include/rosidl_runtime_c"
+				},
+				{
+					"backtrace" : 45,
+					"isSystem" : true,
+					"path" : "/opt/ros/rolling/include/rosidl_runtime_cpp"
+				},
+				{
+					"backtrace" : 45,
+					"isSystem" : true,
+					"path" : "/opt/ros/rolling/include/rosidl_typesupport_interface"
+				},
+				{
+					"backtrace" : 45,
+					"isSystem" : true,
+					"path" : "/opt/ros/rolling/include/std_msgs"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtGui"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "publisher_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "publisher_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "publisher::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib/my_package_publisher"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/home/makarand/ros2_wc/install/my_package_publisher"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-L/opt/ros/rolling/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/opt/ros/rolling/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lrclcpp",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lrosidl_typesupport_cpp",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "/opt/ros/rolling/lib/libstd_msgs__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "/opt/ros/rolling/lib/libstd_msgs__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lrcl",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-ltracetools",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lrmw",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lrcutils",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/opt/ros/rolling/lib/libbuiltin_interfaces__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/opt/ros/rolling/lib/libstd_msgs__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "/opt/ros/rolling/lib/libbuiltin_interfaces__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "/opt/ros/rolling/lib/libbuiltin_interfaces__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "/opt/ros/rolling/lib/librosidl_runtime_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "/opt/ros/rolling/lib/librcutils.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-rpath-link,/opt/ros/rolling/lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "publisher",
+	"nameOnDisk" : "publisher",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				4,
+				6
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				7
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/makarand/ros2_wc/build/my_package_publisher/publisher_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/mainwindow.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/makarand/ros2_wc/build/my_package_publisher/publisher_autogen/include/src/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/makarand/ros2_wc/build/my_package_publisher/publisher_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/makarand/ros2_wc/build/my_package_publisher/publisher_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

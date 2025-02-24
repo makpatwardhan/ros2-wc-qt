@@ -1,0 +1,82 @@
+[0.022s] Invoking command in '/home/makarand/ros2_wc/build/my_package_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/makarand/ros2_wc/src/my_package_cpp -DCMAKE_INSTALL_PREFIX=/home/makarand/ros2_wc/install/my_package_cpp
+[0.154s] -- The C compiler identification is GNU 13.3.0
+[0.245s] -- The CXX compiler identification is GNU 13.3.0
+[0.269s] -- Detecting C compiler ABI info
+[0.424s] -- Detecting C compiler ABI info - done
+[0.432s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.433s] -- Detecting C compile features
+[0.433s] -- Detecting C compile features - done
+[0.449s] -- Detecting CXX compiler ABI info
+[0.605s] -- Detecting CXX compiler ABI info - done
+[0.620s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.620s] -- Detecting CXX compile features
+[0.620s] -- Detecting CXX compile features - done
+[0.620s] -- Found ament_cmake: 2.7.2 (/opt/ros/rolling/share/ament_cmake/cmake)
+[0.784s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.881s] -- Found rclcpp: 29.3.0 (/opt/ros/rolling/share/rclcpp/cmake)
+[0.939s] -- Found rosidl_generator_c: 4.9.3 (/opt/ros/rolling/share/rosidl_generator_c/cmake)
+[0.940s] -- Found rosidl_generator_cpp: 4.9.3 (/opt/ros/rolling/share/rosidl_generator_cpp/cmake)
+[0.940s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.953s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.016s] -- Found rmw_implementation_cmake: 7.6.0 (/opt/ros/rolling/share/rmw_implementation_cmake/cmake)
+[1.018s] -- Found rmw_fastrtps_cpp: 9.2.0 (/opt/ros/rolling/share/rmw_fastrtps_cpp/cmake)
+[1.145s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.174s] -- Found FastRTPS: /opt/ros/rolling/include (Required is at least version "2.13") 
+[1.188s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.247s] -- Found std_msgs: 5.4.2 (/opt/ros/rolling/share/std_msgs/cmake)
+[1.280s] -- Found ament_lint_auto: 0.19.1 (/opt/ros/rolling/share/ament_lint_auto/cmake)
+[1.445s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.445s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/makarand/ros2_wc/src/my_package_cpp/include>
+[1.445s] -- Configured cppcheck exclude dirs and/or files: 
+[1.447s] -- Added test 'lint_cmake' to check CMake code style
+[1.450s] -- Added test 'uncrustify' to check C / C++ code style
+[1.450s] -- Configured uncrustify additional arguments: 
+[1.452s] -- Added test 'xmllint' to check XML markup files
+[1.452s] -- Configuring done (1.4s)
+[1.458s] -- Generating done (0.0s)
+[1.462s] -- Build files have been written to: /home/makarand/ros2_wc/build/my_package_cpp
+[1.471s] Invoked command in '/home/makarand/ros2_wc/build/my_package_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/makarand/ros2_wc/src/my_package_cpp -DCMAKE_INSTALL_PREFIX=/home/makarand/ros2_wc/install/my_package_cpp
+[1.472s] Invoking command in '/home/makarand/ros2_wc/build/my_package_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/makarand/ros2_wc/build/my_package_cpp -- -j4 -l4
+[1.565s] [ 50%] [32mBuilding CXX object CMakeFiles/subscriber.dir/src/subscriber.cpp.o[0m
+[2.428s] In file included from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/node_interfaces/node_graph_interface.hpp:33[m[K,
+[2.428s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/client.hpp:45[m[K,
+[2.428s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+[2.428s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/executor_options.hpp:22[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/executor.hpp:38[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+[2.429s]                  from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/rclcpp.hpp:172[m[K,
+[2.429s]                  from [01m[K/home/makarand/ros2_wc/src/my_package_cpp/src/subscriber.cpp:1[m[K:
+[2.429s] [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/qos.hpp:478:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Krcl_qos_profile_rosout_default[m[K’ is deprecated: use rmw_qos_profile_rosout_default instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[2.429s]   478 |       QoSInitialization::from_rmw([01;35m[Krcl_qos_profile_rosout_default[m[K)
+[2.429s]       |                                   [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[2.429s] In file included from [01m[K/opt/ros/rolling/include/rclcpp/rclcpp/qos.hpp:23[m[K:
+[2.429s] [01m[K/opt/ros/rolling/include/rcl/rcl/logging_rosout.h:41:32:[m[K [01;36m[Knote: [m[Kdeclared here
+[2.429s]    41 | static const rmw_qos_profile_t [01;36m[Krcl_qos_profile_rosout_default[m[K =
+[2.429s]       |                                [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[8.037s] [100%] [32m[1mLinking CXX executable subscriber[0m
+[8.245s] [100%] Built target subscriber
+[8.261s] Invoked command in '/home/makarand/ros2_wc/build/my_package_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/makarand/ros2_wc/build/my_package_cpp -- -j4 -l4
+[8.289s] Invoking command in '/home/makarand/ros2_wc/build/my_package_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/makarand/ros2_wc/build/my_package_cpp
+[8.299s] -- Install configuration: ""
+[8.299s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/lib/my_package_cpp/subscriber
+[8.301s] -- Set non-toolchain portion of runtime path of "/home/makarand/ros2_wc/install/my_package_cpp/lib/my_package_cpp/subscriber" to ""
+[8.302s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/ament_index/resource_index/package_run_dependencies/my_package_cpp
+[8.303s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/ament_index/resource_index/parent_prefix_path/my_package_cpp
+[8.303s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/environment/ament_prefix_path.sh
+[8.303s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/environment/ament_prefix_path.dsv
+[8.303s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/environment/path.sh
+[8.304s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/environment/path.dsv
+[8.304s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/local_setup.bash
+[8.305s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/local_setup.sh
+[8.305s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/local_setup.zsh
+[8.305s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/local_setup.dsv
+[8.305s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/package.dsv
+[8.305s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/ament_index/resource_index/packages/my_package_cpp
+[8.305s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/cmake/my_package_cppConfig.cmake
+[8.306s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/cmake/my_package_cppConfig-version.cmake
+[8.306s] -- Installing: /home/makarand/ros2_wc/install/my_package_cpp/share/my_package_cpp/package.xml
+[8.309s] Invoked command in '/home/makarand/ros2_wc/build/my_package_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/makarand/ros2_wc/build/my_package_cpp

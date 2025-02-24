@@ -1,0 +1,7 @@
+[0.018s] Invoking command in '/home/makarand/ros2_wc/build/my_package_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/makarand/ros2_wc/src/my_package_publisher -DCMAKE_INSTALL_PREFIX=/home/makarand/ros2_wc/install/my_package_publisher
+[0.024s] -- Configuring incomplete, errors occurred!
+[0.024s] [31mCMake Error at CMakeLists.txt:40 (if):
+[0.024s]   Flow control statements are not properly nested.
+[0.024s] 
+[0.024s] [0m
+[0.047s] Invoked command in '/home/makarand/ros2_wc/build/my_package_publisher' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/makarand/ros2_wc/src/my_package_publisher -DCMAKE_INSTALL_PREFIX=/home/makarand/ros2_wc/install/my_package_publisher

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_publisher_FILE /home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/publisher)
+set(__QT_DEPLOY_TARGET_publisher_TYPE EXECUTABLE)

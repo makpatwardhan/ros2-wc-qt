@@ -1,0 +1,16 @@
+/home/makarand/ros2_wc/install/my_package_publisher/lib/my_package_publisher/publisher
+/home/makarand/ros2_wc/install/my_package_publisher/share/ament_index/resource_index/package_run_dependencies/my_package_publisher
+/home/makarand/ros2_wc/install/my_package_publisher/share/ament_index/resource_index/parent_prefix_path/my_package_publisher
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/environment/ament_prefix_path.sh
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/environment/ament_prefix_path.dsv
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/environment/path.sh
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/environment/path.dsv
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/local_setup.bash
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/local_setup.sh
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/local_setup.zsh
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/local_setup.dsv
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/package.dsv
+/home/makarand/ros2_wc/install/my_package_publisher/share/ament_index/resource_index/packages/my_package_publisher
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/cmake/my_package_publisherConfig.cmake
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/cmake/my_package_publisherConfig-version.cmake
+/home/makarand/ros2_wc/install/my_package_publisher/share/my_package_publisher/package.xml

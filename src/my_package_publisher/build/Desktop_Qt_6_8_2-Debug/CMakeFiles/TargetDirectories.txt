@@ -1,0 +1,12 @@
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/uninstall.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/my_package_publisher_uninstall.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/publisher.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/test.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/edit_cache.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/list_install_components.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/local.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/strip.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/publisher_autogen_timestamp_deps.dir
+/home/makarand/ros2_wc/src/my_package_publisher/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/publisher_autogen.dir
